@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+.telefon{
+    width: 40px;
+    height: 40px;
+    margin: 15px;
+}
+header{
+    width: 100%;
+    height: 200px;
+    padding: 15px 0px;
+    background-color:#BEF56E ;
+}
+img{
+    margin-left: 20px;
+}
+.logotip{
+    width: 100px;
+    height: 100px;
+    margin: 15px 0;
+}
+#orxidea{
+    width: 100px;
+    height: 100px;
+}
+.logo{
+    display:flex;
+    
+}
+.logon{
+    display: flex;
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+        
+}
+span{
+    width: 400px;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    border-top: 3px solid #0000FF;
+    border-bottom: 3px solid #0000FF;
+    margin: 10px;
+}
+footer{
+    width: 100%;
+    height: 130px;
+    background-color:#BEF56E ;
+}
+h1{
+    text-align: center; 
+}
+.foto{
+    width: 307px;
+    height: 409px;
+}
+.zveti a{
+    text-align: center;
+    color: black;
+    padding-left: auto;
+
+}
+.zveti{
+    max-width: 307px;
+    padding: 20px 50px;
+}
